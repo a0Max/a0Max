@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm TechLap <br><br>- 🔭 I’m working on mobile applications and websites.<br>- 💬 How to reach me: gmail.gmail.com</p>
+<p align="left">I'm TechLap <br><br>- 🔭 We are a technology-driven company specializing in software development and programming solutions. Our expertise spans mobile and web applications,  and cutting-edge technologies, with a focus on creating innovative, user-centric products that deliver real-world impact.<br>- 💬 How to reach me: gmail.gmail.com</p>
 
 ###
 
@@ -52,7 +52,13 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-###
+<h3 align="left">💻 Crafting Engaging Apps:</h3>
+<a href="https://github.com/a0Max/Beauty-Queen.git">
+  <img src="https://github.com/a0Max/a0Max/blob/main/assets/beautyqueen.png?raw=true" alt="Beauty Queen" height="100">
+</a>
+<a href="https://github.com/a0Max/fissa.git">
+  <img src="https://github.com/a0Max/a0Max/blob/main/assets/fisaa.png?raw=true" alt="Fisaa" height="100">
+</a>
 
 <h3 align="left">🔎 Connect With Me:</h3>
 
